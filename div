@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+  int d;
+  d=9/3;
+  printf("Div=%d",d);
+}
