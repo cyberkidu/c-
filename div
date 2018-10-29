@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-  int d;
-  d=9/3;
+  int d,a,b;
+  scanf("%d",&a,&b);
+  s=a/b;
   printf("Div=%d",d);
 }
